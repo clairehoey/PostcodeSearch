@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 And React Bootstrap
+cd to code directory and 'npm install' before running 'npm start'
 
 ## Available Scripts
 
